@@ -5,7 +5,7 @@ package multithread.exercise.exercise5;
  * Date: 06.09.17
  * Time: 8:51
  */
-public class Fibonacci implements generics.Generator<Integer>, Runnable {
+public class Fibonacci implements generics.fibonacci.Generator<Integer>, Runnable {
     private int count;
     private int index = 0;
 

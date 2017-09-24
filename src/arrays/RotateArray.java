@@ -47,4 +47,3 @@ public class RotateArray
     }
 }
 
-// This code has been contributed by Mayank Jaiswal

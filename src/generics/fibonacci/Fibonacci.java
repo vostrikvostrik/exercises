@@ -1,4 +1,4 @@
-package generics;
+package generics.fibonacci;
 
 /**
  * User: User
